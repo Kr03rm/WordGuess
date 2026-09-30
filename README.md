@@ -27,7 +27,7 @@ Colour ------ Meaning
 
 Example: 
 
-target word: APPLE
+Target word: APPLE
 
 A -> 🟩Correct position
 
