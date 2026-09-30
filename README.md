@@ -48,7 +48,7 @@ E -> 🟧 Wrong position
 
 ⭐Features
 
-Core Features
+Core Features:
 
 🔤 Five-letter word guessing
 
