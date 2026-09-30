@@ -46,19 +46,39 @@ E -> 🟧 Wrong position
 
 |
 
-⭐Features
+🥇Features
 
 Core Features:
 
-🔤 Five-letter word guessing
+🔤 Five-Letter Word Guessing
 
 🕕 6 Attempts
 
-🟢 Green/Yellow/Grey letter feedback
+🟢 Green/Yellow/Grey Letter Feedback
 
-⌨️ Physical keyboard support
+⌨️ Physical Keyboard Support
 
-🖱️ On screen keyboard
+🖱️ On Screen Keyboard
+
+🟩 Word Validation
+
+🏆 Win Detection
+
+❎ Lose Detection
+
+🔄 New game/Restart functionality
+
+Extended Features:
+
+⏲️ Timer
+
+⭐ Scoring Systems
+
+🛗 Difficulty Levels
+
+📱 Responsive Design
+
+🔃 Duplicate-letter Handling
 
 
 
