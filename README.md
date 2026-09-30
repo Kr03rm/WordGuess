@@ -24,3 +24,18 @@ Colour ------ Meaning
 
 ⬜ Grey	=   Letter is not in the word
 
+
+Example: 
+
+target word: APPLE
+
+A -> 🟩Correct position
+
+L -> ⬜Not in word
+
+O -> ⬜ Not in word
+
+N -> ⬜ Not in word 
+
+E -> 🟧 Wrong position
+
