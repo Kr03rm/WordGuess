@@ -1,3 +1,5 @@
+README.md - WordGuess
+
 🖋️ WordGuess: Guessing the word
 A browser-based five-letter word guessing game built with HTML5, CSS3 and JavaScript.
 
