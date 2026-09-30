@@ -16,7 +16,7 @@ GitHub repository: https://github.com/Kr03rm/WordGuess
 
 The player has 6 attempts to guess a hidden 5-letter word
 
-Colour  Meaning
+Colour ------ Meaning
 
 🟩 Green =  Correct letter and correct position
 
