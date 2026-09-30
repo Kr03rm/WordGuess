@@ -12,3 +12,6 @@ Live Demo: URL
 
 GitHub repository: https://github.com/Kr03rm/WordGuess
 
+How The Game Works:
+The player has 6 attempts to guess a hidden 5-letter word
+
