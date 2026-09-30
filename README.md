@@ -46,6 +46,20 @@ E -> 🟧 Wrong position
 
 |
 
+⭐Features
+
+Core Features
+
+🔤 Five-letter word guessing
+
+🕕 6 Attempts
+
+🟢 Green/Yellow/Grey letter feedback
+
+⌨️ Physical keyboard support
+
+🖱️ On screen keyboard
+
 
 
 
