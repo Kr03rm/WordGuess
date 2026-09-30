@@ -6,5 +6,5 @@ A browser-based five-letter word guessing game built with HTML5, CSS3 and JavaSc
 🎮 Game Preview
 Live Demo: URL
 
-GitHub repository: 
+GitHub repository: https://github.com/Kr03rm/WordGuess
 
