@@ -18,5 +18,5 @@ The player has 6 attempts to guess a hidden 5-letter word
 
 Colour              Meaning
 
-🟩Green            Correct Letter and Correct Position
+🟩Green |       | Correct Letter and Correct Position
 
