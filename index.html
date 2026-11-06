@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numle - Number Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="game-container">
+        <h1>NUMLE</h1>
+        <p class="subtitle">Guess the hidden five-digit number!</p>
+
+        <div class="instructions">
+            <p>You have 6 attempts to guess the number.</p>
+            <p>🟩 Correct digit and position</p>
+            <p>🟨 Correct digit, wrong position</p>
+            <p>⬜ Digit is not in the number</p>
+        </div>
+
+        <div class="game-info">
+            <p>Attempts: <span id="attempts">6</span></p>
+            <p>Time: <span id="timer">120</span>s</p>
+            <p>Score: <span id="score">0</span></p>
+        </div>
+
+        <div id="message" aria-live="polite">
+            Enter your first guess!
+        </div>
+
+        <form id="guess-form">
+            <label for="guess">Enter a five-digit number:</label>
+
+            <input
+                type="text"
+                id="guess"
+                maxlength="5"
+                inputmode="numeric"
+                pattern="[0-9]{5}"
+                placeholder="12345"
+                autocomplete="off"
+                required
+            >
+
+            <button type="submit" id="submit-btn">
+                Submit Guess
+            </button>
+        </form>
+
+        <div id="history" class="history"
+             aria-label="Previous guesses">
+        </div>
+
+        <button id="restart-btn" hidden>
+            Play Again
+        </button>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
