@@ -1,1 +1,21 @@
-
+numle-game/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── README.md
+├── evaluation.md
+│
+├── documentation/
+│   ├── requirements.md
+│   ├── design.md
+│   ├── pseudocode.md
+│   ├── flowchart.md
+│   └── test-plan.md
+│
+└── evidence/
+    ├── initial-design.png
+    ├── gameplay.png
+    ├── win-screen.png
+    └── github-commits.png
