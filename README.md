@@ -228,4 +228,4 @@ MDN Web Docs (n.d.) *JavaScript Guide*. Available at: https://developer.mozilla.
 
 MDN Web Docs (n.d.) *HTML: HyperText Markup Language*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML 
 
-GitHub (n.d.) *GitHub Pages documentation*. Available at: https://docs.github.com/en/pages 
+GitHub (n.d.) *GitHub Pages documentation*. Available at: https://github.com/Kr03rm/WordGuess/blob/main/README.md
